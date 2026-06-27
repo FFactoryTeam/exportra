@@ -171,7 +171,7 @@ docs/
 
 FFactory는 Fail Fast 철학을 바탕으로 빠르게 만들고, 빠르게 검증하고, 빠르게 배우며 개선하는 개발 문화를 지향합니다.
 
-> Fail Fast. Learn Faster. Build Better.
+> Fail Fast.
 
 Team members:
 
